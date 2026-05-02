@@ -1,2 +1,0 @@
-# katorihub-script-
-Trang script 
